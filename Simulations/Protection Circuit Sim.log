@@ -1,4 +1,4 @@
-Circuit: * C:\Users\Samir\Electronics Projects\DSP Board\Simulations\Sallen Key Filter Sim.asc
+Circuit: * C:\Users\Samir\Electronics Projects\DSP Board\Simulations\Protection Circuit Sim.asc
 
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -21,21 +21,20 @@ Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
 
-Date: Sun Apr 12 12:37:42 2026
-Total elapsed time: 0.351 seconds.
+Date: Sun Apr 05 12:56:39 2026
+Total elapsed time: 0.297 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 8345
-traniter = 7982
-tranpoints = 3544
-accept = 2615
-rejected = 929
-matrix size = 25
-fillins = 3
+totiter = 5553
+traniter = 5113
+tranpoints = 1767
+accept = 1221
+rejected = 546
+matrix size = 21
+fillins = 2
 solver = Normal
-Thread vector: 32.1/10.2[2] 4.5/2.8[2] 2.2/3.2[1] 0.3/1.2[1]  2592/500
-Matrix Compiler1: 1.47 KB object code size  0.8/0.6/[0.3]
-Matrix Compiler2: off  [0.5]/1.9/0.6
+Matrix Compiler1: 1.06 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: off  [0.4]/0.7/0.5
 
