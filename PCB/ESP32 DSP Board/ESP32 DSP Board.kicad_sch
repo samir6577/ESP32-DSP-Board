@@ -8831,7 +8831,7 @@
 	)
 	(polyline
 		(pts
-			(xy 215.9 81.28) (xy 215.9 187.96)
+			(xy 215.9 83.82) (xy 215.9 187.96)
 		)
 		(stroke
 			(width 0)
@@ -12430,7 +12430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS73733DCQ:SOT127P706X180-6N"
+		(property "Footprint" "LDO_3V3:TPS73733DCQ"
 			(at 213.36 238.76 0)
 			(effects
 				(font
@@ -12856,7 +12856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PTS810_SJM_250_SMTR_LFS:SW_PTS810_SJM_250_SMTR_LFS"
+		(property "Footprint" "Switches:SW_PTS810_SJM_250_SMTR_LFS"
 			(at 322.58 130.81 0)
 			(effects
 				(font
@@ -13639,7 +13639,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 300.99 224.79 0)
 			(effects
 				(font
@@ -15393,7 +15393,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 240.03 151.13 0)
 			(effects
 				(font
@@ -18021,7 +18021,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 325.12 224.79 0)
 			(effects
 				(font
@@ -19430,7 +19430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PTS810_SJM_250_SMTR_LFS:SW_PTS810_SJM_250_SMTR_LFS"
+		(property "Footprint" "Switches:SW_PTS810_SJM_250_SMTR_LFS"
 			(at 229.87 118.11 0)
 			(effects
 				(font
@@ -22225,7 +22225,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 312.42 224.79 0)
 			(effects
 				(font
@@ -22613,7 +22613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB4216-03-A_REVA:GCT_USB4216-03-A_REVA"
+		(property "Footprint" "USB_Connector:GCT_USB4216-03-A_REVA"
 			(at 140.97 229.87 0)
 			(effects
 				(font
